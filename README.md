@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a resource management, planning and monitoring software that allows companies in third-world or developing countries to scale their processes and react almost instantly to emerging issues, challenges and developments in their industry<br>I'm really looking for like-minded people who can help me achieve this goal.<br>I'm also open to new perspectives and insights on how to achieve this.<br>I'm willing to collaborate on exciting projects, and I always keep an open mind.<br>I'll be looking forward to working with anyone who is interested.<br>
+I'm currently working on a resource management, planning and monitoring software that allows companies in third-world or developing countries to scale their processes and react almost instantly to emerging issues, challenges and developments in their industry <br>I'm  open to new perspectives and insights .<br>I'm willing to collaborate on exciting projects, and I always keep an open mind.<br>I'll be looking forward to working with anyone who is interested.<br>
 
 
 ## 🌐 Socials:
