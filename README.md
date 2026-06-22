@@ -1,5 +1,13 @@
 # 💫 About Me:
-I'm currently working on projects that allows companies in third-world or developing countries to scale their processes and react almost instantly to emerging issues, challenges and developments in their industry <br>I'm  open to new perspectives and insights .<br>I'm willing to collaborate on exciting projects, and I always keep an open mind.<br>I'll be looking forward to working with anyone who is interested.<br>
+Building security infrastructure for the AI-built internet.
+
+Founding Scrute : a security intelligence platform that finds what AI coding tools miss, in plain English, before attackers find it first.
+
+Previously: backend and API development for fintech and B2B platforms in emerging markets.
+
+Interested in: developer tools, applied security, AI infrastructure, and building technology that works for the next billion users , not just Silicon Valley.
+
+Open to collaboration on projects that actually matter. If you're building something ambitious, let's talk.<br>
 
 
 ## 🌐 Socials:
