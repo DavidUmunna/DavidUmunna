@@ -1,13 +1,11 @@
 # 💫 About Me:
-Building security infrastructure for the AI-built internet.
-
-Founding Scrute : a security intelligence platform that finds what AI coding tools miss, in plain English, before attackers find it first.
+currently working on AI Applications to improve transparency in medical billing
 
 Previously: backend and API development for fintech and B2B platforms in emerging markets.
 
-Interested in: developer tools, applied security, AI infrastructure, and building technology that works for the next billion users , not just Silicon Valley.
+Interested in: developer tools, applied security, AI infrastructure,medical and building technology that works for thousands users .
 
-Open to collaboration on projects that actually matter. If you're building something ambitious, let's talk.<br>
+Open to collaboration . let's talk.<br>
 
 
 ## 🌐 Socials:
